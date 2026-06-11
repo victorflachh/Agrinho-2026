@@ -1,3 +1,3 @@
 function mostrarMensagem(){
-    alert("Bem-vindo ao projeto Agrinho 2026!");
+    alert("O futuro depende do equilíbrio entre produção agrícola e preservação ambiental!");
 }
